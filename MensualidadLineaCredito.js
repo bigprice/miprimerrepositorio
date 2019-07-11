@@ -145,3 +145,5 @@ Object.defineProperty(newObject, "propiedad1", {
 
 
 });
+
+-----------------------------------
